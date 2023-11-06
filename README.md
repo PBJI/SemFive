@@ -3,7 +3,7 @@ Repository to store notes, important stuff related to semester five of BSc IT.
 
 
 # First Goal:
-Understand AI practicals, programs, various concepts and be able to apply and replicate this understanding without guide or hints. Sunday, 03:23 05/11/2023.
+Understand AI practicals, programs, various concepts and be able to apply and demonstrate this understanding without guide or hints. Sunday, 03:23 05/11/2023.
 
 </br></br>Resources: 
 > [AI Manual](./AI/AI%20Manual%20(E-next.in).pdf)
@@ -11,6 +11,7 @@ Understand AI practicals, programs, various concepts and be able to apply and re
 > [Set difference in python](https://www.w3schools.com/python/ref_set_difference.asp)
 
 </br>Discussion: 
+
 ```
 Around 25 programs in total.
 
@@ -37,5 +38,21 @@ Special Search: Constraints Satisfaction Problems
 </br> Tasks: 
 > Research simpleai library
 > Study the theory of AI
+> 
 
 </br> Achievements:
+</br>
+
+# Second Goal:
+Understand AWP practicals, programs, various concepts and be able to apply and demonstrate this understanding without guide or hints. Monday, 07:30 06/11/2023.
+
+</br>Resources:
+
+</br>Discussion:
+
+```
+
+```
+</br>Tasks:
+
+</br>Achievements:
