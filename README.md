@@ -2,7 +2,7 @@
 Repository to store notes, important stuff related to semester five of BSc IT.
 
 
-# First Goal:
+## First Goal:
 Understand AI practicals, programs, various concepts and be able to apply and demonstrate this understanding without guide or hints. Sunday, 03:23 05/11/2023.
 
 </br></br>Resources: 
@@ -43,7 +43,7 @@ Special Search: Constraints Satisfaction Problems
 </br> Achievements:
 </br>
 
-# Second Goal:
+## Second Goal:
 Understand AWP practicals, programs, various concepts and be able to apply and demonstrate this understanding without guide or hints. Monday, 07:30 06/11/2023.
 
 </br>Resources:
